@@ -4,3 +4,5 @@
 * lexer
 * parser
 * eval
+
+# how to start?
